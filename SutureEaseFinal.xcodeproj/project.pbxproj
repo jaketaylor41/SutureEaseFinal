@@ -7,23 +7,140 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7E09788A23125D2400AD9151 /* CrossBow Reproducible suture placement - Dr Mirhashemi.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 7EDE858A23124C5D00F1984E /* CrossBow Reproducible suture placement - Dr Mirhashemi.mp4 */; };
+		7E09788B23125D2400AD9151 /* CrossBow with Adaptor - 3 stitch technique.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 7EDE858F2312518200F1984E /* CrossBow with Adaptor - 3 stitch technique.mp4 */; };
+		7E09788D2312625200AD9151 /* Dr. Coates Testimonial720.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 7E09788C2312622100AD9151 /* Dr. Coates Testimonial720.mp4 */; };
+		7E182AB92321C02E005EF042 /* Icon-29.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E182A9B2321C02E005EF042 /* Icon-29.png */; };
+		7E182ABA2321C02E005EF042 /* Icon-16.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E182A9C2321C02E005EF042 /* Icon-16.png */; };
+		7E182ABB2321C02E005EF042 /* Icon-256.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E182A9D2321C02E005EF042 /* Icon-256.png */; };
+		7E182ABC2321C02E005EF042 /* Icon-120.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E182A9E2321C02E005EF042 /* Icon-120.png */; };
+		7E182ABD2321C02E005EF042 /* Icon-88.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E182A9F2321C02E005EF042 /* Icon-88.png */; };
+		7E182ABE2321C02E005EF042 /* Icon-144.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E182AA02321C02E005EF042 /* Icon-144.png */; };
+		7E182ABF2321C02E005EF042 /* Icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E182AA12321C02E005EF042 /* Icon-76.png */; };
+		7E182AC02321C02E005EF042 /* Icon-60.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E182AA22321C02E005EF042 /* Icon-60.png */; };
+		7E182AC12321C02E005EF042 /* Icon-48.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E182AA32321C02E005EF042 /* Icon-48.png */; };
+		7E182AC22321C02E005EF042 /* Icon-1024.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E182AA42321C02E005EF042 /* Icon-1024.png */; };
+		7E182AC32321C02E005EF042 /* Icon-152.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E182AA52321C02E005EF042 /* Icon-152.png */; };
+		7E182AC42321C02E005EF042 /* Icon-180.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E182AA62321C02E005EF042 /* Icon-180.png */; };
+		7E182AC52321C02E005EF042 /* Icon-64.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E182AA72321C02E005EF042 /* Icon-64.png */; };
+		7E182AC62321C02E005EF042 /* Icon-58.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E182AA82321C02E005EF042 /* Icon-58.png */; };
+		7E182AC72321C02E005EF042 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E182AA92321C02E005EF042 /* Icon-72.png */; };
+		7E182AC82321C02E005EF042 /* Icon-196.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E182AAA2321C02E005EF042 /* Icon-196.png */; };
+		7E182AC92321C02E005EF042 /* Icon-80.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E182AAB2321C02E005EF042 /* Icon-80.png */; };
+		7E182ACA2321C02E005EF042 /* Icon-57.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E182AAC2321C02E005EF042 /* Icon-57.png */; };
+		7E182ACB2321C02E005EF042 /* Icon-55.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E182AAD2321C02E005EF042 /* Icon-55.png */; };
+		7E182ACC2321C02E005EF042 /* Icon-172.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E182AAE2321C02E005EF042 /* Icon-172.png */; };
+		7E182ACD2321C02E005EF042 /* Icon-167.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E182AAF2321C02E005EF042 /* Icon-167.png */; };
+		7E182ACE2321C02E005EF042 /* Icon-40.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E182AB02321C02E005EF042 /* Icon-40.png */; };
+		7E182ACF2321C02E005EF042 /* Icon-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E182AB12321C02E005EF042 /* Icon-50.png */; };
+		7E182AD02321C02E005EF042 /* Icon-87.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E182AB22321C02E005EF042 /* Icon-87.png */; };
+		7E182AD12321C02E005EF042 /* Icon-20.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E182AB32321C02E005EF042 /* Icon-20.png */; };
+		7E182AD22321C02E005EF042 /* Icon-128.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E182AB42321C02E005EF042 /* Icon-128.png */; };
+		7E182AD32321C02E005EF042 /* Icon-100.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E182AB52321C02E005EF042 /* Icon-100.png */; };
+		7E182AD42321C02E005EF042 /* Icon-114.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E182AB62321C02E005EF042 /* Icon-114.png */; };
+		7E182AD52321C02E005EF042 /* Icon-32.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E182AB72321C02E005EF042 /* Icon-32.png */; };
+		7E182AD62321C02E005EF042 /* Icon-512.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E182AB82321C02E005EF042 /* Icon-512.png */; };
+		7E1D44AA22E0386E00E47692 /* SellingAidController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E1D44A922E0386E00E47692 /* SellingAidController.swift */; };
+		7E1D44AC22E03BF000E47692 /* SellingAids.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E1D44AB22E03BF000E47692 /* SellingAids.swift */; };
+		7E1D44AE22E6B55C00E47692 /* TableViewCellSA.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E1D44AD22E6B55C00E47692 /* TableViewCellSA.swift */; };
+		7E1D44B022FA755A00E47692 /* ViewControllerSA.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E1D44AF22FA755A00E47692 /* ViewControllerSA.swift */; };
+		7E1D44B222FA7C9F00E47692 /* AvertaDemoPECuttedDemo-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 7E1D44B122FA7C9F00E47692 /* AvertaDemoPECuttedDemo-Regular.otf */; };
 		7E50BED7229B5F5300248CCC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E50BED6229B5F5300248CCC /* AppDelegate.swift */; };
-		7E50BED9229B5F5300248CCC /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E50BED8229B5F5300248CCC /* FirstViewController.swift */; };
-		7E50BEDB229B5F5300248CCC /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E50BEDA229B5F5300248CCC /* SecondViewController.swift */; };
 		7E50BEDE229B5F5300248CCC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7E50BEDC229B5F5300248CCC /* Main.storyboard */; };
 		7E50BEE0229B5F5400248CCC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7E50BEDF229B5F5400248CCC /* Assets.xcassets */; };
 		7E50BEE3229B5F5400248CCC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7E50BEE1229B5F5400248CCC /* LaunchScreen.storyboard */; };
+		7E50BEEB229B69C600248CCC /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E50BEEA229B69C600248CCC /* Video.swift */; };
+		7E50BEEF229B6DC100248CCC /* VideosTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E50BEEE229B6DC100248CCC /* VideosTableViewController.swift */; };
+		7E50BEF1229B74CD00248CCC /* VideoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E50BEF0229B74CD00248CCC /* VideoTableViewCell.swift */; };
+		7E50BEF9229E1C7900248CCC /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E50BEF8229E1C7900248CCC /* TableViewController.swift */; };
+		7E50BEFD229E2E6200248CCC /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E50BEFC229E2E6200248CCC /* TableViewCell.swift */; };
+		7E50BEFF229E2F8B00248CCC /* Brochures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E50BEFE229E2F8B00248CCC /* Brochures.swift */; };
+		7E50BF03229E4C8600248CCC /* HomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E50BF02229E4C8600248CCC /* HomePage.swift */; };
+		7E50BF0722A230D300248CCC /* LaunchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E50BF0622A230D300248CCC /* LaunchView.swift */; };
+		7E6EDF75238DD6A900CAD304 /* OrderFormControllerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E6EDF74238DD6A900CAD304 /* OrderFormControllerViewController.swift */; };
+		7E752DD02321D02E00048B63 /* Dr. Mirhashemi Testimonial - Mod-thin patient technique.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 7E752DCF2321D02E00048B63 /* Dr. Mirhashemi Testimonial - Mod-thin patient technique.mp4 */; };
+		7EB62FAF22CB1FDC0039A92E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EB62FAE22CB1FDC0039A92E /* ViewController.swift */; };
+		7EB62FB322D1516E0039A92E /* MailController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EB62FB222D1516E0039A92E /* MailController.swift */; };
+		7EB62FB522D152C30039A92E /* BrochureB.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7EB62FB422D152C30039A92E /* BrochureB.pdf */; };
+		7EB62FB722D1572F0039A92E /* BrochureC.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7EB62FB622D1572E0039A92E /* BrochureC.pdf */; };
+		7ED74D1523282D5D00125C20 /* CrossBow Animation.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 7ED74D1423282D5D00125C20 /* CrossBow Animation.mp4 */; };
+		7ED74D1823282D7200125C20 /* securusAnimation.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 7ED74D1623282D7200125C20 /* securusAnimation.mp4 */; };
+		7ED74D1923282D7200125C20 /* crossbowOverview.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 7ED74D1723282D7200125C20 /* crossbowOverview.mp4 */; };
+		7EDE856223122A7700F1984E /* Suture Ease Quote - Bay Area Hospital 12-1-17.docx in Resources */ = {isa = PBXBuildFile; fileRef = 7EDE856023122A7600F1984E /* Suture Ease Quote - Bay Area Hospital 12-1-17.docx */; };
+		7EDE856523122A8300F1984E /* K172666.Letter.SE.FINAL  CrossBow 510-K.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7EDE856423122A8300F1984E /* K172666.Letter.SE.FINAL  CrossBow 510-K.pdf */; };
+		7EDE856723122A8900F1984E /* FRM-1601-B New Customer Setup Information.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7EDE856623122A8900F1984E /* FRM-1601-B New Customer Setup Information.pdf */; };
+		7EDE856923122A9500F1984E /* W-9 - Suture Ease Inc.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7EDE856823122A9500F1984E /* W-9 - Suture Ease Inc.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7E09788C2312622100AD9151 /* Dr. Coates Testimonial720.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Dr. Coates Testimonial720.mp4"; sourceTree = "<group>"; };
+		7E09788E231269AF00AD9151 /* crossbowOverview.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = crossbowOverview.mp4; path = "../../../SutureEaseImages+PDF+Video/crossbowOverview.mp4"; sourceTree = "<group>"; };
+		7E182A9B2321C02E005EF042 /* Icon-29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-29.png"; sourceTree = "<group>"; };
+		7E182A9C2321C02E005EF042 /* Icon-16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-16.png"; sourceTree = "<group>"; };
+		7E182A9D2321C02E005EF042 /* Icon-256.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-256.png"; sourceTree = "<group>"; };
+		7E182A9E2321C02E005EF042 /* Icon-120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-120.png"; sourceTree = "<group>"; };
+		7E182A9F2321C02E005EF042 /* Icon-88.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-88.png"; sourceTree = "<group>"; };
+		7E182AA02321C02E005EF042 /* Icon-144.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-144.png"; sourceTree = "<group>"; };
+		7E182AA12321C02E005EF042 /* Icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76.png"; sourceTree = "<group>"; };
+		7E182AA22321C02E005EF042 /* Icon-60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60.png"; sourceTree = "<group>"; };
+		7E182AA32321C02E005EF042 /* Icon-48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-48.png"; sourceTree = "<group>"; };
+		7E182AA42321C02E005EF042 /* Icon-1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-1024.png"; sourceTree = "<group>"; };
+		7E182AA52321C02E005EF042 /* Icon-152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-152.png"; sourceTree = "<group>"; };
+		7E182AA62321C02E005EF042 /* Icon-180.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-180.png"; sourceTree = "<group>"; };
+		7E182AA72321C02E005EF042 /* Icon-64.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-64.png"; sourceTree = "<group>"; };
+		7E182AA82321C02E005EF042 /* Icon-58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-58.png"; sourceTree = "<group>"; };
+		7E182AA92321C02E005EF042 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
+		7E182AAA2321C02E005EF042 /* Icon-196.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-196.png"; sourceTree = "<group>"; };
+		7E182AAB2321C02E005EF042 /* Icon-80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-80.png"; sourceTree = "<group>"; };
+		7E182AAC2321C02E005EF042 /* Icon-57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-57.png"; sourceTree = "<group>"; };
+		7E182AAD2321C02E005EF042 /* Icon-55.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-55.png"; sourceTree = "<group>"; };
+		7E182AAE2321C02E005EF042 /* Icon-172.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-172.png"; sourceTree = "<group>"; };
+		7E182AAF2321C02E005EF042 /* Icon-167.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-167.png"; sourceTree = "<group>"; };
+		7E182AB02321C02E005EF042 /* Icon-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40.png"; sourceTree = "<group>"; };
+		7E182AB12321C02E005EF042 /* Icon-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-50.png"; sourceTree = "<group>"; };
+		7E182AB22321C02E005EF042 /* Icon-87.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-87.png"; sourceTree = "<group>"; };
+		7E182AB32321C02E005EF042 /* Icon-20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-20.png"; sourceTree = "<group>"; };
+		7E182AB42321C02E005EF042 /* Icon-128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-128.png"; sourceTree = "<group>"; };
+		7E182AB52321C02E005EF042 /* Icon-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-100.png"; sourceTree = "<group>"; };
+		7E182AB62321C02E005EF042 /* Icon-114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-114.png"; sourceTree = "<group>"; };
+		7E182AB72321C02E005EF042 /* Icon-32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-32.png"; sourceTree = "<group>"; };
+		7E182AB82321C02E005EF042 /* Icon-512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-512.png"; sourceTree = "<group>"; };
+		7E1D44A922E0386E00E47692 /* SellingAidController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SellingAidController.swift; sourceTree = "<group>"; };
+		7E1D44AB22E03BF000E47692 /* SellingAids.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SellingAids.swift; sourceTree = "<group>"; };
+		7E1D44AD22E6B55C00E47692 /* TableViewCellSA.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCellSA.swift; sourceTree = "<group>"; };
+		7E1D44AF22FA755A00E47692 /* ViewControllerSA.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerSA.swift; sourceTree = "<group>"; };
+		7E1D44B122FA7C9F00E47692 /* AvertaDemoPECuttedDemo-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AvertaDemoPECuttedDemo-Regular.otf"; sourceTree = "<group>"; };
 		7E50BED3229B5F5300248CCC /* SutureEaseFinal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SutureEaseFinal.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7E50BED6229B5F5300248CCC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		7E50BED8229B5F5300248CCC /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
-		7E50BEDA229B5F5300248CCC /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		7E50BEDD229B5F5300248CCC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		7E50BEDF229B5F5400248CCC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7E50BEE2229B5F5400248CCC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7E50BEE4229B5F5400248CCC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7E50BEEA229B69C600248CCC /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
+		7E50BEEE229B6DC100248CCC /* VideosTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideosTableViewController.swift; sourceTree = "<group>"; };
+		7E50BEF0229B74CD00248CCC /* VideoTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoTableViewCell.swift; sourceTree = "<group>"; };
+		7E50BEF8229E1C7900248CCC /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		7E50BEFC229E2E6200248CCC /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = TableViewCell.swift; path = ../TableViewCell.swift; sourceTree = "<group>"; };
+		7E50BEFE229E2F8B00248CCC /* Brochures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Brochures.swift; sourceTree = "<group>"; };
+		7E50BF02229E4C8600248CCC /* HomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = HomePage.swift; path = ../HomePage.swift; sourceTree = "<group>"; };
+		7E50BF0622A230D300248CCC /* LaunchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaunchView.swift; sourceTree = "<group>"; };
+		7E6EDF74238DD6A900CAD304 /* OrderFormControllerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderFormControllerViewController.swift; sourceTree = "<group>"; };
+		7E752DCF2321D02E00048B63 /* Dr. Mirhashemi Testimonial - Mod-thin patient technique.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Dr. Mirhashemi Testimonial - Mod-thin patient technique.mp4"; sourceTree = "<group>"; };
+		7E752DD32321D37A00048B63 /* CrossBow with Adaptor - 3 stitch technique.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CrossBow with Adaptor - 3 stitch technique.mp4"; sourceTree = "<group>"; };
+		7EB62FAE22CB1FDC0039A92E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		7EB62FB222D1516E0039A92E /* MailController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MailController.swift; sourceTree = "<group>"; };
+		7EB62FB422D152C30039A92E /* BrochureB.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = BrochureB.pdf; sourceTree = "<group>"; };
+		7EB62FB622D1572E0039A92E /* BrochureC.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = BrochureC.pdf; sourceTree = "<group>"; };
+		7EC562D5239575A5009A9308 /* SutureEaseFinal.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SutureEaseFinal.entitlements; sourceTree = "<group>"; };
+		7ED74D1423282D5D00125C20 /* CrossBow Animation.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CrossBow Animation.mp4"; sourceTree = "<group>"; };
+		7ED74D1623282D7200125C20 /* securusAnimation.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = securusAnimation.mp4; sourceTree = "<group>"; };
+		7ED74D1723282D7200125C20 /* crossbowOverview.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = crossbowOverview.mp4; sourceTree = "<group>"; };
+		7EDE856023122A7600F1984E /* Suture Ease Quote - Bay Area Hospital 12-1-17.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Suture Ease Quote - Bay Area Hospital 12-1-17.docx"; sourceTree = "<group>"; };
+		7EDE856423122A8300F1984E /* K172666.Letter.SE.FINAL  CrossBow 510-K.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "K172666.Letter.SE.FINAL  CrossBow 510-K.pdf"; sourceTree = "<group>"; };
+		7EDE856623122A8900F1984E /* FRM-1601-B New Customer Setup Information.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "FRM-1601-B New Customer Setup Information.pdf"; sourceTree = "<group>"; };
+		7EDE856823122A9500F1984E /* W-9 - Suture Ease Inc.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "W-9 - Suture Ease Inc.pdf"; sourceTree = "<group>"; };
+		7EDE858A23124C5D00F1984E /* CrossBow Reproducible suture placement - Dr Mirhashemi.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CrossBow Reproducible suture placement - Dr Mirhashemi.mp4"; sourceTree = "<group>"; };
+		7EDE858F2312518200F1984E /* CrossBow with Adaptor - 3 stitch technique.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CrossBow with Adaptor - 3 stitch technique.mp4"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +154,43 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		7E182A9A2321C02E005EF042 /* appiconmaker.co_ios */ = {
+			isa = PBXGroup;
+			children = (
+				7E182A9B2321C02E005EF042 /* Icon-29.png */,
+				7E182A9C2321C02E005EF042 /* Icon-16.png */,
+				7E182A9D2321C02E005EF042 /* Icon-256.png */,
+				7E182A9E2321C02E005EF042 /* Icon-120.png */,
+				7E182A9F2321C02E005EF042 /* Icon-88.png */,
+				7E182AA02321C02E005EF042 /* Icon-144.png */,
+				7E182AA12321C02E005EF042 /* Icon-76.png */,
+				7E182AA22321C02E005EF042 /* Icon-60.png */,
+				7E182AA32321C02E005EF042 /* Icon-48.png */,
+				7E182AA42321C02E005EF042 /* Icon-1024.png */,
+				7E182AA52321C02E005EF042 /* Icon-152.png */,
+				7E182AA62321C02E005EF042 /* Icon-180.png */,
+				7E182AA72321C02E005EF042 /* Icon-64.png */,
+				7E182AA82321C02E005EF042 /* Icon-58.png */,
+				7E182AA92321C02E005EF042 /* Icon-72.png */,
+				7E182AAA2321C02E005EF042 /* Icon-196.png */,
+				7E182AAB2321C02E005EF042 /* Icon-80.png */,
+				7E182AAC2321C02E005EF042 /* Icon-57.png */,
+				7E182AAD2321C02E005EF042 /* Icon-55.png */,
+				7E182AAE2321C02E005EF042 /* Icon-172.png */,
+				7E182AAF2321C02E005EF042 /* Icon-167.png */,
+				7E182AB02321C02E005EF042 /* Icon-40.png */,
+				7E182AB12321C02E005EF042 /* Icon-50.png */,
+				7E182AB22321C02E005EF042 /* Icon-87.png */,
+				7E182AB32321C02E005EF042 /* Icon-20.png */,
+				7E182AB42321C02E005EF042 /* Icon-128.png */,
+				7E182AB52321C02E005EF042 /* Icon-100.png */,
+				7E182AB62321C02E005EF042 /* Icon-114.png */,
+				7E182AB72321C02E005EF042 /* Icon-32.png */,
+				7E182AB82321C02E005EF042 /* Icon-512.png */,
+			);
+			path = appiconmaker.co_ios;
+			sourceTree = "<group>";
+		};
 		7E50BECA229B5F5300248CCC = {
 			isa = PBXGroup;
 			children = (
@@ -56,15 +210,78 @@
 		7E50BED5229B5F5300248CCC /* SutureEaseFinal */ = {
 			isa = PBXGroup;
 			children = (
+				7EC562D5239575A5009A9308 /* SutureEaseFinal.entitlements */,
+				7EB62FBF22D2A79F0039A92E /* Videos */,
+				7EB62FB422D152C30039A92E /* BrochureB.pdf */,
+				7EB62FB622D1572E0039A92E /* BrochureC.pdf */,
+				7EDE856623122A8900F1984E /* FRM-1601-B New Customer Setup Information.pdf */,
+				7EDE856823122A9500F1984E /* W-9 - Suture Ease Inc.pdf */,
 				7E50BED6229B5F5300248CCC /* AppDelegate.swift */,
-				7E50BED8229B5F5300248CCC /* FirstViewController.swift */,
-				7E50BEDA229B5F5300248CCC /* SecondViewController.swift */,
-				7E50BEDC229B5F5300248CCC /* Main.storyboard */,
-				7E50BEDF229B5F5400248CCC /* Assets.xcassets */,
+				7EDE856423122A8300F1984E /* K172666.Letter.SE.FINAL  CrossBow 510-K.pdf */,
+				7EDE856023122A7600F1984E /* Suture Ease Quote - Bay Area Hospital 12-1-17.docx */,
+				7E50BEF3229B751D00248CCC /* Views */,
+				7E50BEF4229B753900248CCC /* Controller */,
+				7E50BEF5229B754200248CCC /* Model */,
 				7E50BEE1229B5F5400248CCC /* LaunchScreen.storyboard */,
+				7E50BEDF229B5F5400248CCC /* Assets.xcassets */,
 				7E50BEE4229B5F5400248CCC /* Info.plist */,
+				7E182A9A2321C02E005EF042 /* appiconmaker.co_ios */,
+				7E1D44B122FA7C9F00E47692 /* AvertaDemoPECuttedDemo-Regular.otf */,
 			);
 			path = SutureEaseFinal;
+			sourceTree = "<group>";
+		};
+		7E50BEF3229B751D00248CCC /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				7E50BEDC229B5F5300248CCC /* Main.storyboard */,
+				7E50BEF0229B74CD00248CCC /* VideoTableViewCell.swift */,
+				7E50BEFC229E2E6200248CCC /* TableViewCell.swift */,
+				7E1D44AD22E6B55C00E47692 /* TableViewCellSA.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		7E50BEF4229B753900248CCC /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				7EB62FAE22CB1FDC0039A92E /* ViewController.swift */,
+				7EB62FB222D1516E0039A92E /* MailController.swift */,
+				7E50BEEE229B6DC100248CCC /* VideosTableViewController.swift */,
+				7E50BEF8229E1C7900248CCC /* TableViewController.swift */,
+				7E1D44A922E0386E00E47692 /* SellingAidController.swift */,
+				7E1D44AF22FA755A00E47692 /* ViewControllerSA.swift */,
+				7E6EDF74238DD6A900CAD304 /* OrderFormControllerViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		7E50BEF5229B754200248CCC /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				7E50BEEA229B69C600248CCC /* Video.swift */,
+				7E50BEFE229E2F8B00248CCC /* Brochures.swift */,
+				7E1D44AB22E03BF000E47692 /* SellingAids.swift */,
+				7E50BF02229E4C8600248CCC /* HomePage.swift */,
+				7E50BF0622A230D300248CCC /* LaunchView.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		7EB62FBF22D2A79F0039A92E /* Videos */ = {
+			isa = PBXGroup;
+			children = (
+				7ED74D1723282D7200125C20 /* crossbowOverview.mp4 */,
+				7ED74D1623282D7200125C20 /* securusAnimation.mp4 */,
+				7ED74D1423282D5D00125C20 /* CrossBow Animation.mp4 */,
+				7E752DD32321D37A00048B63 /* CrossBow with Adaptor - 3 stitch technique.mp4 */,
+				7E752DCF2321D02E00048B63 /* Dr. Mirhashemi Testimonial - Mod-thin patient technique.mp4 */,
+				7E09788E231269AF00AD9151 /* crossbowOverview.mp4 */,
+				7EDE858A23124C5D00F1984E /* CrossBow Reproducible suture placement - Dr Mirhashemi.mp4 */,
+				7E09788C2312622100AD9151 /* Dr. Coates Testimonial720.mp4 */,
+				7EDE858F2312518200F1984E /* CrossBow with Adaptor - 3 stitch technique.mp4 */,
+			);
+			path = Videos;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -94,7 +311,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1020;
-				LastUpgradeCheck = 1020;
+				LastUpgradeCheck = 1120;
 				ORGANIZATIONNAME = "Jacob Taylor";
 				TargetAttributes = {
 					7E50BED2229B5F5300248CCC = {
@@ -125,9 +342,53 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7E09788D2312625200AD9151 /* Dr. Coates Testimonial720.mp4 in Resources */,
+				7E09788A23125D2400AD9151 /* CrossBow Reproducible suture placement - Dr Mirhashemi.mp4 in Resources */,
+				7E09788B23125D2400AD9151 /* CrossBow with Adaptor - 3 stitch technique.mp4 in Resources */,
+				7EDE856223122A7700F1984E /* Suture Ease Quote - Bay Area Hospital 12-1-17.docx in Resources */,
 				7E50BEE3229B5F5400248CCC /* LaunchScreen.storyboard in Resources */,
+				7E182AC82321C02E005EF042 /* Icon-196.png in Resources */,
+				7E182AD12321C02E005EF042 /* Icon-20.png in Resources */,
+				7E182ACE2321C02E005EF042 /* Icon-40.png in Resources */,
+				7E182AD22321C02E005EF042 /* Icon-128.png in Resources */,
+				7E182AD62321C02E005EF042 /* Icon-512.png in Resources */,
+				7E182ABC2321C02E005EF042 /* Icon-120.png in Resources */,
+				7E1D44B222FA7C9F00E47692 /* AvertaDemoPECuttedDemo-Regular.otf in Resources */,
+				7E182AC32321C02E005EF042 /* Icon-152.png in Resources */,
+				7E182ACD2321C02E005EF042 /* Icon-167.png in Resources */,
+				7E182AD02321C02E005EF042 /* Icon-87.png in Resources */,
+				7EDE856723122A8900F1984E /* FRM-1601-B New Customer Setup Information.pdf in Resources */,
+				7E182AC02321C02E005EF042 /* Icon-60.png in Resources */,
+				7E182AC62321C02E005EF042 /* Icon-58.png in Resources */,
+				7E182ACB2321C02E005EF042 /* Icon-55.png in Resources */,
+				7E182ACF2321C02E005EF042 /* Icon-50.png in Resources */,
+				7E752DD02321D02E00048B63 /* Dr. Mirhashemi Testimonial - Mod-thin patient technique.mp4 in Resources */,
+				7E182AC92321C02E005EF042 /* Icon-80.png in Resources */,
+				7EDE856523122A8300F1984E /* K172666.Letter.SE.FINAL  CrossBow 510-K.pdf in Resources */,
+				7EB62FB722D1572F0039A92E /* BrochureC.pdf in Resources */,
+				7E182AB92321C02E005EF042 /* Icon-29.png in Resources */,
+				7EDE856923122A9500F1984E /* W-9 - Suture Ease Inc.pdf in Resources */,
+				7E182ABA2321C02E005EF042 /* Icon-16.png in Resources */,
+				7E182AC42321C02E005EF042 /* Icon-180.png in Resources */,
+				7ED74D1823282D7200125C20 /* securusAnimation.mp4 in Resources */,
 				7E50BEE0229B5F5400248CCC /* Assets.xcassets in Resources */,
+				7E182ABD2321C02E005EF042 /* Icon-88.png in Resources */,
+				7E182AD32321C02E005EF042 /* Icon-100.png in Resources */,
+				7E182AC12321C02E005EF042 /* Icon-48.png in Resources */,
+				7E182ABF2321C02E005EF042 /* Icon-76.png in Resources */,
+				7E182ACA2321C02E005EF042 /* Icon-57.png in Resources */,
+				7EB62FB522D152C30039A92E /* BrochureB.pdf in Resources */,
 				7E50BEDE229B5F5300248CCC /* Main.storyboard in Resources */,
+				7E182ABE2321C02E005EF042 /* Icon-144.png in Resources */,
+				7ED74D1523282D5D00125C20 /* CrossBow Animation.mp4 in Resources */,
+				7ED74D1923282D7200125C20 /* crossbowOverview.mp4 in Resources */,
+				7E182AC52321C02E005EF042 /* Icon-64.png in Resources */,
+				7E182ABB2321C02E005EF042 /* Icon-256.png in Resources */,
+				7E182AC72321C02E005EF042 /* Icon-72.png in Resources */,
+				7E182AC22321C02E005EF042 /* Icon-1024.png in Resources */,
+				7E182AD42321C02E005EF042 /* Icon-114.png in Resources */,
+				7E182ACC2321C02E005EF042 /* Icon-172.png in Resources */,
+				7E182AD52321C02E005EF042 /* Icon-32.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,9 +399,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7E50BEDB229B5F5300248CCC /* SecondViewController.swift in Sources */,
+				7E1D44AA22E0386E00E47692 /* SellingAidController.swift in Sources */,
+				7E1D44AC22E03BF000E47692 /* SellingAids.swift in Sources */,
+				7E50BEFF229E2F8B00248CCC /* Brochures.swift in Sources */,
+				7E50BEEB229B69C600248CCC /* Video.swift in Sources */,
+				7E1D44B022FA755A00E47692 /* ViewControllerSA.swift in Sources */,
+				7E6EDF75238DD6A900CAD304 /* OrderFormControllerViewController.swift in Sources */,
+				7EB62FB322D1516E0039A92E /* MailController.swift in Sources */,
+				7E50BEF1229B74CD00248CCC /* VideoTableViewCell.swift in Sources */,
 				7E50BED7229B5F5300248CCC /* AppDelegate.swift in Sources */,
-				7E50BED9229B5F5300248CCC /* FirstViewController.swift in Sources */,
+				7EB62FAF22CB1FDC0039A92E /* ViewController.swift in Sources */,
+				7E50BEFD229E2E6200248CCC /* TableViewCell.swift in Sources */,
+				7E50BEF9229E1C7900248CCC /* TableViewController.swift in Sources */,
+				7E50BEEF229B6DC100248CCC /* VideosTableViewController.swift in Sources */,
+				7E50BF0722A230D300248CCC /* LaunchView.swift in Sources */,
+				7E50BF03229E4C8600248CCC /* HomePage.swift in Sources */,
+				7E1D44AE22E6B55C00E47692 /* TableViewCellSA.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -169,6 +443,7 @@
 		7E50BEE5229B5F5400248CCC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
@@ -224,12 +499,14 @@
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
 		7E50BEE6229B5F5400248CCC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
@@ -278,6 +555,7 @@
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				TARGETED_DEVICE_FAMILY = 1;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
@@ -285,34 +563,48 @@
 		7E50BEE8229B5F5400248CCC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_ENTITLEMENTS = SutureEaseFinal/SutureEaseFinal.entitlements;
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 4;
+				DEVELOPMENT_TEAM = 6L7P9PT3LS;
 				INFOPLIST_FILE = SutureEaseFinal/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.jaketaylor.SutureEaseFinal;
+				MARKETING_VERSION = 1.0.6;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jaketaylor.SutureEase;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Debug;
 		};
 		7E50BEE9229B5F5400248CCC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_ENTITLEMENTS = SutureEaseFinal/SutureEaseFinal.entitlements;
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 4;
+				DEVELOPMENT_TEAM = 6L7P9PT3LS;
 				INFOPLIST_FILE = SutureEaseFinal/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.jaketaylor.SutureEaseFinal;
+				MARKETING_VERSION = 1.0.6;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jaketaylor.SutureEase;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Release;
 		};
